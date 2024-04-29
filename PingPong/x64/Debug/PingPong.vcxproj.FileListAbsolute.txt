@@ -1,0 +1,3 @@
+C:\Users\Elena\Desktop\PingPong\x64\Debug\PingPong.exe
+C:\Users\Elena\Desktop\PingPong\x64\Debug\PingPong.vcxproj.CopyComplete
+C:\Users\Elena\Desktop\PingPong\x64\Debug\raylib.dll

@@ -1,0 +1,17 @@
+﻿  PingPong.cpp
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(18,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(18,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(18,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(58,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(58,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(58,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(58,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(87,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(126,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(129,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(146,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(152,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Elena\Desktop\PingPong\PingPong.cpp(155,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PingPong.vcxproj -> C:\Users\Elena\Desktop\PingPong\x64\Debug\PingPong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
